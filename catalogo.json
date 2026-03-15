@@ -75,5 +75,12 @@
     "categoria": "Ferramentas",
     "descricao": "Chave de fenda de alta durabilidade",
     "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/chave_fenda.png"
+  },
+  {
+    "id": 1011,
+    "nome": "Bucha",
+    "categoria": "Fixação",
+    "descricao": "Buchas de diversos tamanhos",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/bucha.png"
   }
 ]
