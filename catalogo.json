@@ -61,5 +61,12 @@
     "categoria": "Ferramentas",
     "descricao": "Martelo profissional",
     "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/martelo.jpg"
+  },
+  {
+    "id": 1009,
+    "nome": "Furadeira Profissional",
+    "categoria": "Ferramentas",
+    "descricao": "Furadeira Bosch",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/furadeira.jpg"
   }
 ]
