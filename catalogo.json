@@ -82,5 +82,12 @@
     "categoria": "Fixação",
     "descricao": "Buchas de diversos tamanhos",
     "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/bucha.png"
+  },
+  {
+    "id": 1012,
+    "nome": "Luvas",
+    "categoria": "Ferramentas",
+    "descricao": "Luvas para construição civil",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/luvas.png"
   }
 ]
