@@ -54,5 +54,12 @@
     "categoria": "Fixação",
     "descricao": "Cadeado de aço com alta resistência",
     "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/parafuso3.png"
+  },
+  {
+    "id": 1008,
+    "nome": "Martelo",
+    "categoria": "Ferramentas",
+    "descricao": "Martelo profissional",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/martelo.jpg"
   }
 ]
