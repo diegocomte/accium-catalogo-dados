@@ -68,5 +68,12 @@
     "categoria": "Ferramentas",
     "descricao": "Furadeira Bosch",
     "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/furadeira.jpg"
+  },
+  {
+    "id": 1010,
+    "nome": "Chave de Fendas",
+    "categoria": "Ferramentas",
+    "descricao": "Chave de fenda de alta durabilidade",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/chave_fenda.png"
   }
 ]
