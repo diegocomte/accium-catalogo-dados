@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": 1000,
+    "nome": "Alicate Universal",
+    "categoria": "Ferramentas",
+    "descricao": "Alicate universal profissional",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/alicate.png"
+  },
+  {
+    "id": 1001,
+    "nome": "Esquadro Metálico",
+    "categoria": "Ferramentas",
+    "descricao": "Esquadro Metálico",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/cadeado.png"
+  },
+  {
+    "id": 1002,
+    "nome": "Parafuso Sextavado",
+    "categoria": "Fixação",
+    "descricao": "Parafuso de alta resistência para estruturas",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/cano.png"
+  },
+  {
+    "id": 1003,
+    "nome": "Trena 5m",
+    "categoria": "Ferramentas",
+    "descricao": "Trena profissional com trava automática",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/disco.png"
+  },
+  {
+    "id": 1004,
+    "nome": "Furadeira de Impacto",
+    "categoria": "Ferramentas",
+    "descricao": "Furadeira elétrica para uso profissional",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/parafuso.png"
+  },
+  {
+    "id": 1005,
+    "nome": "Proca Sextavada",
+    "categoria": "Fixação",
+    "descricao": "Porca de fixação em aço galvanizado",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/parafuso.png"
+  },
+  {
+    "id": 1006,
+    "nome": "Arruela Lisa",
+    "categoria": "Fixação",
+    "descricao": "Arruela metálica de proteção",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/parafuso2.png"
+  },
+  {
+    "id": 1007,
+    "nome": "Cadeado de segurança",
+    "categoria": "Fixação",
+    "descricao": "Cadeado de aço com alta resistência",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/parafuso3.png"
+  }
+]
