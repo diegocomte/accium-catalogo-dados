@@ -89,5 +89,12 @@
     "categoria": "Ferramentas",
     "descricao": "Luvas para construição civil",
     "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/luvas.png"
+  },
+  {
+    "id": 1013,
+    "nome": "EPI",
+    "categoria": "Ferramentas",
+    "descricao": "EPIs para construção",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/epi.png"
   }
 ]
