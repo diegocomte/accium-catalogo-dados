@@ -96,5 +96,12 @@
     "categoria": "Ferramentas",
     "descricao": "EPIs para construção",
     "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/epi.png"
+  },
+  {
+    "id": 1014,
+    "nome": "Chave de boca",
+    "categoria": "Ferramentas",
+    "descricao": "Chave de boca",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/chave_de_boca.png"
   }
 ]
