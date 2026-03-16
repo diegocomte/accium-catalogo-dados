@@ -110,5 +110,12 @@
     "categoria": "Abrasivos",
     "descricao": "Abrasivos múltiplos",
     "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/abrasivos.png"
+  },
+  {
+    "id": 1016,
+    "nome": "Tubos",
+    "categoria": "Hidráulicos",
+    "descricao": "Tubos metálicos",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/tubo.png"
   }
 ]
