@@ -103,5 +103,12 @@
     "categoria": "Ferramentas",
     "descricao": "Chave de boca",
     "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/chave_de_boca.png"
+  },
+  {
+    "id": 1015,
+    "nome": "Abrasivos",
+    "categoria": "Abrasivos",
+    "descricao": "Abrasivos múltiplos",
+    "imagem": "https://cdn.jsdelivr.net/gh/diegocomte/accium-catalogo-imagens/abrasivos.png"
   }
 ]
